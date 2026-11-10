@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+tokenizers
+huggingface_hub
+safetensors
+ijson
+tqdm
+bert-score
+rouge-score
+sacrebleu
+bitsandbytes
